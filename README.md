@@ -28,6 +28,8 @@ person is wearing mask or not .
 ## Convolutional Nerwork
 ![App Screenshot](https://github.com/Vikas031/Face-Mask-Detection-System-Deep-Learning-/blob/master/Facemask%20Screenshot/network.png)
 
+Link for Google Colab CNN implementation :
+https://colab.research.google.com/drive/1op5Ku6AkGdrdFsDPO0q34-5cLm_Cn5NW?usp=sharing
 
 BIBLIOGRAPHY :
 

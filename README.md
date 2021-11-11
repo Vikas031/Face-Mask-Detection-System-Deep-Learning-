@@ -29,10 +29,6 @@ person is wearing mask or not .
 ![App Screenshot](https://github.com/Vikas031/Face-Mask-Detection-System-Deep-Learning-/blob/master/Facemask%20Screenshot/network.png)
 
 
-## Here is the link for full project file :
-
-https://drive.google.com/drive/folders/1EHTBYHI7C9FS4ahCOTqGXT4vJMtn_85X?usp=sharing
-
 BIBLIOGRAPHY :
 
 • For open cv :

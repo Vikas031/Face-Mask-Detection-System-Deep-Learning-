@@ -9,8 +9,6 @@ person is wearing mask or not .
 
 ![App Screenshot](https://github.com/Vikas031/Face-Mask-Detection-System-Deep-Learning-/blob/master/Facemask%20Screenshot/2img.png) ![App Screenshot](https://github.com/Vikas031/Face-Mask-Detection-System-Deep-Learning-/blob/master/Facemask%20Screenshot/1img.png) 
 
-![App Screenshot](https://github.com/Vikas031/Face-Mask-Detection-System-Deep-Learning-/blob/master/Facemask%20Screenshot/3img.png)
-
 
 • PROJECT IMPLEMENTATION IS BASICALLY IN 4 PARTS :
 1. Preparing image dataset to train images
